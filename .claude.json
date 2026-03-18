@@ -1,0 +1,16 @@
+{
+  "project": "T4 Tour & Travel LLP",
+  "description": "Static HTML website for T4 Tour & Travel LLP, featuring Himalayas, Char Dham & North India travel packages.",
+  "techStack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "structure": {
+    "index.html": "Main single-page website with all sections (nav, hero, packages, about, contact)"
+  },
+  "conventions": {
+    "css": "CSS custom properties (variables) defined in :root, inline styles within <style> tag",
+    "fonts": "Playfair Display (serif), DM Sans (sans-serif), DM Mono (monospace) via Google Fonts"
+  }
+}
